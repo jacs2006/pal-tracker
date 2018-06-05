@@ -3,7 +3,7 @@ plugins {
     id "java"
     id "org.springframework.boot" version "1.5.4.RELEASE"
 }
-
+ 
 repositories {
     mavenCentral()
 }
