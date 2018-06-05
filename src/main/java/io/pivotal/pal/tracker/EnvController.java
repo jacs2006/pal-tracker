@@ -27,7 +27,7 @@ public class EnvController {
         this.cfInstanceAddr = cfInstanceAddr;
     }
 
-
+    // Comment to trigger build
     @GetMapping("/env")
     public Map<String, String> getEnv() {
 
